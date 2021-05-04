@@ -1,4 +1,4 @@
-# waterline-test
+# waterline-example
 
 Example of using Waterline for ORM access in node.js. Run the test in `test/waterline-test.js`.
 
