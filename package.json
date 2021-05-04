@@ -1,0 +1,19 @@
+{
+  "name": "waterline-example",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "sails-mongo": "^2.0.0",
+    "waterline": "^0.13.6"
+  },
+  "devDependencies": {
+    "mocha": "^8.3.2"
+  }
+}
